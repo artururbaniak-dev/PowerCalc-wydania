@@ -1,0 +1,54 @@
+PowerCalc – licencja użytkownika
+================================
+
+Autor i właściciel praw: Artur Urbaniak.
+
+1. Udzielenie licencji
+   Autor udziela niewyłącznej, nieodpłatnej licencji na używanie programu PowerCalc w tej wersji przez osoby
+   fizyczne i firmy, do własnych prac projektowych, w okresie ważności wydania. Datę ważności program pokazuje
+   przy uruchomieniu. Po tej dacie wydanie przestaje działać i trzeba pobrać aktualną wersję ze strony autora.
+
+2. Przyszłe wersje
+   Autor może zmienić warunki dla kolejnych wersji, w tym wprowadzić licencję płatną lub kod aktywacyjny dla firm.
+   Zmiana nie dotyczy okresu ważności wydań już pobranych.
+
+3. Ograniczenia
+   Bez pisemnej zgody autora nie wolno:
+   a) udostępniać, publikować, sprzedawać ani przekazywać programu lub jego części innym osobom i firmom
+      (także w sieci firmowej, na stronach internetowych i w serwisach z plikami) – inni użytkownicy pobierają
+      program ze strony autora;
+   b) dekompilować, dezasemblować, modyfikować programu ani obchodzić zabezpieczeń (w tym daty ważności),
+      w zakresie, w jakim nie zezwalają na to bezwzględnie obowiązujące przepisy;
+   c) usuwać ani zmieniać oznaczeń autora i tej licencji.
+
+4. Wyniki obliczeń i odpowiedzialność
+   Program wspomaga obliczenia instalacji elektrycznych niskiego napięcia wg norm PN-HD 60364, PN-EN 60909-0
+   i N SEP-E-002. Wyniki wymagają sprawdzenia przez projektanta z odpowiednimi uprawnieniami, który odpowiada za
+   projekt. Program jest udostępniany w obecnej postaci („tak jak jest”), bez gwarancji poprawności, przydatności
+   do określonego celu i nieprzerwanego działania. W najszerszym zakresie dopuszczalnym przez prawo autor nie
+   odpowiada za szkody wynikłe z używania programu lub wyników obliczeń.
+
+5. Dane w programie
+   Dane katalogowe w programie to wartości typowe lub wynikające z norm. Tabele selektywności producentów
+   aparatów nie są dołączone – do oceny selektywności wpisuj wartości z dokumentacji producenta.
+   Wkładki gG – wg bramek PN-EN 60269-1; dokładne dane wpisuj z karty producenta.
+
+6. Prawo właściwe
+   Licencja podlega prawu polskiemu. Sprawy nieuregulowane – przepisy ustawy o prawie autorskim i prawach
+   pokrewnych oraz Kodeksu cywilnego.
+
+Kontakt w sprawie zgody na udostępnianie i licencji dla firm: przez stronę wydań programu (GitHub).
+
+
+Składniki zewnętrzne
+--------------------
+Program zawiera biblioteki innych autorów na ich licencjach (teksty licencji – na stronach projektów):
+- Qt i PySide6 (The Qt Company) – GNU LGPL v3; biblioteki dołączone jako osobne pliki DLL/PYD i mogą być
+  zastąpione zgodnymi wersjami; kod źródłowy: https://code.qt.io, https://pypi.org/project/PySide6/
+- Python (Python Software Foundation) – licencja PSF
+- matplotlib – licencja matplotlib (oparta na PSF)
+- NumPy – licencja BSD
+- pyqtgraph – licencja MIT
+- Pillow – licencja HPND (MIT-CMU)
+- openpyxl – licencja MIT
+- typst (kompilator Typst i powiązanie dla Pythona) – licencja Apache 2.0
